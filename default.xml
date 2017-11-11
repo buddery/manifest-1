@@ -12,6 +12,10 @@
            fetch=".."
            review="gerrit.aospa.co"
            revision="nougat-mr2"/>
+  
+   <remote name="buddery"
+           fetch="https://github.com/buddery"
+           revision="n-mr2" />
 
   <remote  name="caf"
            fetch="git://codeaurora.org/quic/la"
