@@ -12,13 +12,17 @@
            review="gerrit.aospa.co"
            revision="nougat-caf" />
 
+   <remote name="buddery"
+           fetch="https://github.com/buddery"
+           revision="n-mr2" />
+
   <remote  name="caf"
            fetch="git://codeaurora.org/quic/la"
-           review="codeaurora.org" />
+           review="codeaurora.org"/>
 
   <remote  name="blobs"
-           fetch="https://github.com/ThankYouMario"
-           revision="nougat-caf" />
+           fetch="https://github.com/dirtyunicorns"
+           revision="n7x-caf"/>
 
   <remote  name="github"
            fetch="https://github.com" />
