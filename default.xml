@@ -14,7 +14,7 @@
 
    <remote name="buddery"
            fetch="https://github.com/buddery"
-           revision="n-mr2" />
+           revision="nougat-caf" />
 
   <remote  name="caf"
            fetch="git://codeaurora.org/quic/la"
